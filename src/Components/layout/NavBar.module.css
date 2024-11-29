@@ -1,0 +1,14 @@
+.lista {
+    display: flex;
+    list-style: none;
+
+}
+
+.item {
+    margin-right: 1em ;
+}
+
+.link {
+    color : #0099ee
+    
+}
